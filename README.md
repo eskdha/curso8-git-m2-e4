@@ -17,7 +17,7 @@ git commit
 
 Tambien podemos usar `git rm` en ejercicios anteriores
 
-Podemos ver la documentacion en el [sitio oficial] (https://github.com/eskdha/curso8-git-m2-e4)
+Podemos ver la documentacion en el [sitio oficial](https://github.com/eskdha/curso8-git-m2-e4)
 
 Listas
 - Elemento
